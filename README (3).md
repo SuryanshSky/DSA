@@ -49,7 +49,8 @@ LeetCode-Solutions/
 │   ├── 263_Ugly_Number.cpp
 │   └── 258_Add_Digits.cpp
 ├── Day02/
-│   └── ...
+│   └── 319_Bulb_Switcher.cpp
+    └── 1232_Check_Straight_Line.cpp
 └── Day100/
     └── ...
 ```
@@ -60,7 +61,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 2 |
+| Math | 4 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -73,11 +74,11 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 2 |
-| 🟢 Easy | 2 |
-| 🟡 Medium | 0 |
+| ✅ Total Problems Solved | 4 |
+| 🟢 Easy | 3 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| ⚡ 0ms Solutions | 2 |
+| ⚡ 0ms Solutions | 4 |
 
 ---
 
