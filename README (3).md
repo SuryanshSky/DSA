@@ -25,7 +25,8 @@
 |-----|-------------|--------------|------------|--------|---------|----------|
 | 01  | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | Math, Loop | 0ms ⚡ | [View](./Day01/263_Ugly_Number.cpp) |
 | 01  | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | 🟢 Easy | Math, Loop | 0ms ⚡ | [View](./Day01/258_Add_Digits.cpp) |
-| 02  | - | - | - | - | - | - |
+| 02  | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | Math | 0ms ⚡ | [View](./Day02/319_Bulb_Switcher.cpp) |
+| 02  | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | 🟢 Easy | Math, Geometry | 0ms ⚡ | [View](./Day02/1232_Check_Straight_Line.cpp) |
 | 03  | - | - | - | - | - | - |
 | 04  | - | - | - | - | - | - |
 | 05  | - | - | - | - | - | - |
