@@ -27,7 +27,8 @@
 | 01  | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | 🟢 Easy | Math, Loop | 0ms ⚡ | [View](./Day01/258_Add_Digits.cpp) |
 | 02  | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | 🟡 Medium | Math | 0ms ⚡ | [View](./Day02/319_Bulb_Switcher.cpp) |
 | 02  | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | 🟢 Easy | Math, Geometry | 0ms ⚡ | [View](./Day02/1232_Check_Straight_Line.cpp) |
-| 03  | - | - | - | - | - | - |
+| 03  | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | Math, Recursion | 0ms ⚡ | [View](./Day03/50_Pow_x_n.cpp) |
+| 03  | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | 🟢 Easy | Math, String | 0ms ⚡ | [View](./Day03/168_Excel_Sheet_Column_Title.cpp) |
 | 04  | - | - | - | - | - | - |
 | 05  | - | - | - | - | - | - |
 | 06  | - | - | - | - | - | - |
@@ -61,7 +62,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 4 |
+| Math | 6 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -74,11 +75,11 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 4 |
+| ✅ Total Problems Solved | 6 |
 | 🟢 Easy | 3 |
-| 🟡 Medium | 1 |
+| 🟡 Medium | 3 |
 | 🔴 Hard | 0 |
-| ⚡ 0ms Solutions | 4 |
+| ⚡ 0ms Solutions | 6 |
 
 ---
 
