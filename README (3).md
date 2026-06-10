@@ -29,8 +29,10 @@
 | 02  | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | 🟢 Easy | Math, Geometry | 0ms ⚡ | [View](./Day02/1232_Check_Straight_Line.cpp) |
 | 03  | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | Math, Recursion | 0ms ⚡ | [View](./Day03/50_Pow_x_n.cpp) |
 | 03  | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | 🟢 Easy | Math, String | 0ms ⚡ | [View](./Day03/168_Excel_Sheet_Column_Title.cpp) |
-| 04  | - | - | - | - | - | - |
-| 05  | - | - | - | - | - | - |
+| 04  | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | 🟢 Easy | Math, Loop | 0ms ⚡ | [View](./Day04/342_Power_of_Four.cpp) |
+| 04  | - | [GCD / HCF - Euclidean Algorithm](./Day04/GCD_HCF_Euclidean_Algorithm.cpp) | 🟢 Concept | Math, GCD | - | [View](./Day04/GCD_HCF_Euclidean_Algorithm.cpp) |
+| 05  | - | [Divisors of a Number](./Day05/Divisors_of_a_Number.cpp) | 🟢 Concept | Math, sqrt(n) | - | [View](./Day05/Divisors_of_a_Number.cpp) |
+| 05  | - | [Sieve of Eratosthenes](./Day05/Prime_Sieve_of_Eratosthenes.cpp) | 🟢 Concept | Math, Primes | - | [View](./Day05/Prime_Sieve_of_Eratosthenes.cpp) |
 | 06  | - | - | - | - | - | - |
 | 07  | - | - | - | - | - | - |
 | 08  | - | - | - | - | - | - |
@@ -62,7 +64,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 6 |
+| Math | 10 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -75,9 +77,9 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 6 |
-| 🟢 Easy | 3 |
-| 🟡 Medium | 3 |
+| ✅ Total Problems Solved | 10 |
+| 🟢 Easy | 6 |
+| 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
 | ⚡ 0ms Solutions | 6 |
 
