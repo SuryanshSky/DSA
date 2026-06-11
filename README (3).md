@@ -4,7 +4,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-brightgreen)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-1%2F100-blue)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-6%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
