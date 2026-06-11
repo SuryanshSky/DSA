@@ -33,7 +33,7 @@
 | 04  | - | [GCD / HCF - Euclidean Algorithm](./Day04/GCD_HCF_Euclidean_Algorithm.cpp) | 🟢 Concept | Math, GCD | - | [View](./Day04/GCD_HCF_Euclidean_Algorithm.cpp) |
 | 05  | - | [Divisors of a Number](./Day05/Divisors_of_a_Number.cpp) | 🟢 Concept | Math, sqrt(n) | - | [View](./Day05/Divisors_of_a_Number.cpp) |
 | 05  | - | [Sieve of Eratosthenes](./Day05/Prime_Sieve_of_Eratosthenes.cpp) | 🟢 Concept | Math, Primes | - | [View](./Day05/Prime_Sieve_of_Eratosthenes.cpp) |
-| 06  | - | - | - | - | - | - |
+| 06  | - | [Catalan Numbers](./Day06/Catalan_Numbers.cpp) | 🟢 Concept | Math, Recursion, Combinatorics | - | [View](./Day06/Catalan_Numbers.cpp) |
 | 07  | - | - | - | - | - | - |
 | 08  | - | - | - | - | - | - |
 | 09  | - | - | - | - | - | - |
@@ -64,7 +64,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 10 |
+| Math | 11 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -77,9 +77,9 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 10 |
+| ✅ Total Problems Solved | 11 |
 | 🟢 Easy | 6 |
-| 🟡 Medium | 4 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 | ⚡ 0ms Solutions | 6 |
 
