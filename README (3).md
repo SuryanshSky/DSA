@@ -3,7 +3,7 @@
 > Solving LeetCode problems every day for 100 days to sharpen DSA skills and build consistency.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-12-brightgreen)
 ![Days Completed](https://img.shields.io/badge/Days%20Completed-7%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
