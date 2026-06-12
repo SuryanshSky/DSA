@@ -4,7 +4,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-brightgreen)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-6%2F100-blue)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-7%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
@@ -34,7 +34,7 @@
 | 05  | - | [Divisors of a Number](./Day05/Divisors_of_a_Number.cpp) | 🟢 Concept | Math, sqrt(n) | - | [View](./Day05/Divisors_of_a_Number.cpp) |
 | 05  | - | [Sieve of Eratosthenes](./Day05/Prime_Sieve_of_Eratosthenes.cpp) | 🟢 Concept | Math, Primes | - | [View](./Day05/Prime_Sieve_of_Eratosthenes.cpp) |
 | 06  | - | [Catalan Numbers](./Day06/Catalan_Numbers.cpp) | 🟢 Concept | Math, Recursion, Combinatorics | - | [View](./Day06/Catalan_Numbers.cpp) |
-| 07  | - | - | - | - | - | - |
+| 07  | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | 🟢 Easy | Math, Divisors | 0ms ⚡ | [View](./Day07/507_Perfect_Number.cpp) |
 | 08  | - | - | - | - | - | - |
 | 09  | - | - | - | - | - | - |
 | 10  | - | - | - | - | - | - |
@@ -64,7 +64,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 11 |
+| Math | 12 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -77,8 +77,8 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 11 |
-| 🟢 Easy | 6 |
+| ✅ Total Problems Solved | 12 |
+| 🟢 Easy | 7 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 | ⚡ 0ms Solutions | 6 |
