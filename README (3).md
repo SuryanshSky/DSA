@@ -3,8 +3,8 @@
 > Solving LeetCode problems every day for 100 days to sharpen DSA skills and build consistency.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-12-brightgreen)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-7%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-13-brightgreen)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-8%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
@@ -35,7 +35,7 @@
 | 05  | - | [Sieve of Eratosthenes](./Day05/Prime_Sieve_of_Eratosthenes.cpp) | 🟢 Concept | Math, Primes | - | [View](./Day05/Prime_Sieve_of_Eratosthenes.cpp) |
 | 06  | - | [Catalan Numbers](./Day06/Catalan_Numbers.cpp) | 🟢 Concept | Math, Recursion, Combinatorics | - | [View](./Day06/Catalan_Numbers.cpp) |
 | 07  | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | 🟢 Easy | Math, Divisors | 0ms ⚡ | [View](./Day07/507_Perfect_Number.cpp) |
-| 08  | - | - | - | - | - | - |
+| 08  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Brute Force | 0ms ⚡ | [View](./Day08/1_Two_Sum.cpp) |
 | 09  | - | - | - | - | - | - |
 | 10  | - | - | - | - | - | - |
 
@@ -64,7 +64,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 12 |
+| Math | 13 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -77,8 +77,8 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 12 |
-| 🟢 Easy | 7 |
+| ✅ Total Problems Solved | 13 |
+| 🟢 Easy | 8 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 | ⚡ 0ms Solutions | 6 |
