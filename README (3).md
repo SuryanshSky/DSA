@@ -3,8 +3,8 @@
 > Solving LeetCode problems every day for 100 days to sharpen DSA skills and build consistency.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-13-brightgreen)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-8%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-14-brightgreen)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-9%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
@@ -36,7 +36,7 @@
 | 06  | - | [Catalan Numbers](./Day06/Catalan_Numbers.cpp) | 🟢 Concept | Math, Recursion, Combinatorics | - | [View](./Day06/Catalan_Numbers.cpp) |
 | 07  | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | 🟢 Easy | Math, Divisors | 0ms ⚡ | [View](./Day07/507_Perfect_Number.cpp) |
 | 08  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Brute Force | 0ms ⚡ | [View](./Day08/1_Two_Sum.cpp) |
-| 09  | - | - | - | - | - | - |
+| 09  | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | 🟢 Easy | Math, Loop | 0ms ⚡ | [View](./Day09/342_Power_of_Four.cpp) |
 | 10  | - | - | - | - | - | - |
 
 > ✅ Update this table daily!
@@ -64,7 +64,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 13 |
+| Math | 14 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -77,11 +77,11 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 13 |
-| 🟢 Easy | 8 |
+| ✅ Total Problems Solved | 14 |
+| 🟢 Easy | 9 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
-| ⚡ 0ms Solutions | 6 |
+| ⚡ 0ms Solutions | 7 |
 
 ---
 
