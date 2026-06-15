@@ -3,8 +3,8 @@
 > Solving LeetCode problems every day for 100 days to sharpen DSA skills and build consistency.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-14-brightgreen)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-9%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-15-brightgreen)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-10%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
@@ -64,7 +64,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 14 |
+| Math | 15 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -77,8 +77,8 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 14 |
-| 🟢 Easy | 9 |
+| ✅ Total Problems Solved | 15 |
+| 🟢 Easy | 10 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 | ⚡ 0ms Solutions | 7 |
