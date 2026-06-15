@@ -37,7 +37,7 @@
 | 07  | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | 🟢 Easy | Math, Divisors | 0ms ⚡ | [View](./Day07/507_Perfect_Number.cpp) |
 | 08  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Brute Force | 0ms ⚡ | [View](./Day08/1_Two_Sum.cpp) |
 | 09  | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | 🟢 Easy | Math, Loop | 0ms ⚡ | [View](./Day09/342_Power_of_Four.cpp) |
-| 10  | - | - | - | - | - | - |
+| 10  | 1979 | [Find GCD of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | 🟢 Easy | Math, GCD, Sorting | 0ms ⚡ | [View](./Day10/1979_Find_GCD_of_Array.cpp) |
 
 > ✅ Update this table daily!
 
