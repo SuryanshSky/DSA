@@ -3,8 +3,8 @@
 > Solving LeetCode problems every day for 100 days to sharpen DSA skills and build consistency.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-15-brightgreen)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-10%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16-brightgreen)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-11%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
@@ -38,6 +38,7 @@
 | 08  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Brute Force | 0ms ⚡ | [View](./Day08/1_Two_Sum.cpp) |
 | 09  | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | 🟢 Easy | Math, Loop | 0ms ⚡ | [View](./Day09/342_Power_of_Four.cpp) |
 | 10  | 1979 | [Find GCD of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | 🟢 Easy | Math, GCD, Sorting | 0ms ⚡ | [View](./Day10/1979_Find_GCD_of_Array.cpp) |
+| 11  | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | 🟢 Easy | Array, Sorting | 0ms ⚡ | [View](./Day11/1502_Arithmetic_Progression.cpp) |
 
 > ✅ Update this table daily!
 
@@ -64,7 +65,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 15 |
+| Math | 16 |
 | Arrays | 0 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -77,8 +78,8 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 15 |
-| 🟢 Easy | 10 |
+| ✅ Total Problems Solved | 16 |
+| 🟢 Easy | 11 |
 | 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 | ⚡ 0ms Solutions | 7 |
