@@ -3,8 +3,8 @@
 > Solving LeetCode problems every day for 100 days to sharpen DSA skills and build consistency.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-17-brightgreen)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-12%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-18-brightgreen)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-13%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
@@ -40,6 +40,8 @@
 | 10  | 1979 | [Find GCD of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | 🟢 Easy | Math, GCD, Sorting | 0ms ⚡ | [View](./Day10/1979_Find_GCD_of_Array.cpp) |
 | 11  | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | 🟢 Easy | Array, Sorting | 0ms ⚡ | [View](./Day11/1502_Arithmetic_Progression.cpp) |
 | 12  | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 🟢 Easy | Bit Manipulation | 0ms ⚡ | [View](./Day12/191_Number_of_1_Bits.cpp) |
+| 13  | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | Math, Overflow Handling | 0ms ⚡ | [View](./Day13/7_Reverse_Integer.cpp) |
+
 > ✅ Update this table daily!
 
 ---
@@ -66,7 +68,7 @@ LeetCode-Solutions/
 | Topic | Problems Solved |
 |-------|----------------|
 | Math | 17 |
-| Arrays | 0 |
+| Arrays | 1 |
 | Strings | 0 |
 | Linked List | 0 |
 | Trees | 0 |
@@ -78,11 +80,11 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 17 |
+| ✅ Total Problems Solved | 18 |
 | 🟢 Easy | 12 |
-| 🟡 Medium | 5 |
+| 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
-| ⚡ 0ms Solutions | 8 |
+| ⚡ 0ms Solutions | 9 |
 
 ---
 
