@@ -3,8 +3,8 @@
 > Solving LeetCode problems every day for 100 days to sharpen DSA skills and build consistency.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/YourUsername/LeetCode-Solutions)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-19-brightgreen)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-14%2F100-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-20-brightgreen)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-15%2F100-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 
 ---
@@ -42,7 +42,7 @@
 | 12  | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 🟢 Easy | Bit Manipulation | 0ms ⚡ | [View](./Day12/191_Number_of_1_Bits.cpp) |
 | 13  | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡 Medium | Math, Overflow Handling | 0ms ⚡ | [View](./Day13/7_Reverse_Integer.cpp) |
 | 14  | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | Recursion, Backtracking, String | 0ms ⚡ | [View](./Day14/17_Letter_Combinations_Phone_Number.cpp) |
-
+| 15  | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | Binary Search, Math | 0ms ⚡ | [View](./Day15/69_Sqrt_x.cpp) |
 > ✅ Update this table daily!
 
 ---
@@ -68,7 +68,7 @@ LeetCode-Solutions/
 
 | Topic | Problems Solved |
 |-------|----------------|
-| Math | 17 |
+| Math | 18 |
 | Arrays | 2 |
 | Strings | 0 |
 | Linked List | 0 |
@@ -81,11 +81,11 @@ LeetCode-Solutions/
 
 | Metric | Count |
 |--------|-------|
-| ✅ Total Problems Solved | 19 |
-| 🟢 Easy | 12 |
+| ✅ Total Problems Solved | 20 |
+| 🟢 Easy | 13 |
 | 🟡 Medium | 7 |
 | 🔴 Hard | 0 |
-| ⚡ 0ms Solutions | 10 |
+| ⚡ 0ms Solutions | 11 |
 
 ---
 
